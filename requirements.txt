@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-telegram-bot
+langgraph
+langchain
+langchain-openai
+openai
+python-dotenv
+pydantic
+supabase
+psycopg2-binary
+pgvector
+pdfplumber
+pytesseract
+pillow
